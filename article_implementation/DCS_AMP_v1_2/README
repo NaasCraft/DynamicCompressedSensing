@@ -1,0 +1,44 @@
+% README
+% 
+%
+% Requirements
+% ------------
+% 1. MathWorks MATLAB release 2010b or later.
+% 
+% 
+% Installation Instructions
+% -------------------------
+% 1. Extract the zipped program files to a desired directory
+% 
+% 2. Add the extracted directories to MATLAB's path
+%
+% 3. (Optional) If you wish to generate figures reproducing the
+% numerical experiments from the most recent manuscript, including the
+% performance comparison against Modified-CS and Basis Pursuit, you will
+% need to download and/or acquire the MATLAB codes from the authors of
+% the respective works, and include their primary functions in MATLAB's
+% path.  Note that the interface and/or implementation of these third-
+% party MATLAB codes may have changed since this software was released,
+% and thus correct execution cannot be guaranteed.
+% 
+% 
+% Warranty Disclaimer
+% -------------------
+% THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS 
+% IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+% THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR 
+% PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR 
+% CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, 
+% EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, 
+% PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR 
+% PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
+% LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
+% NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
+% SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+% 
+% 
+% Copyright
+% ---------
+% The source codes contained in this software package are copyrighted by
+% Philip Schniter and Justin Ziniel of the Department of Electrical and 
+% Computer Engineering, The Ohio State University, 2015.
